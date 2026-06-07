@@ -9,7 +9,7 @@ manually, but the volume of applications has grown too large for that approach.
 
 The risk team has assembled two years of historical loan data, labelled with
 the final repayment outcome.  Your task is to build an automated credit
-scoring model that can flag high-risk applications at submission time, so
+scoring model that can **flag high-risk** applications at submission time, so
 that a human reviewer can intervene before the loan is issued.
 
 Getting this right has real asymmetric stakes: approving a bad loan costs the
